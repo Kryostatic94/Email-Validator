@@ -1,7 +1,4 @@
-package com.databasees1;
-
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 public class Esercizio4 {
 	private static Scanner input = new Scanner(System.in);
